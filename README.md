@@ -40,15 +40,25 @@ RegisterNumber:
 */
 
 ## Output:
+![image](https://github.com/praveen2p/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151658061/74258e44-0406-4aa4-a3ce-c7e8d2a03d33)
+![ful sub pro](https://github.com/praveen2p/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151658061/65c0f050-27c5-4f4f-aeb8-cd29a4688669)
 
 ## Truthtable
+![TT SUB HAL](https://github.com/praveen2p/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151658061/6833c9c8-bb0b-4421-a758-7ba8f23c3995)
+![TT SUB FULL](https://github.com/praveen2p/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151658061/e83f3eb8-0f70-4918-8d55-5212bf80f337)
 
 
 
 ##  RTL realization
+![RTL SUB HAL](https://github.com/praveen2p/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151658061/4837750e-98df-4a65-b72e-040b7a226a96)
+![RTL FULL SUB](https://github.com/praveen2p/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151658061/7a1867d9-90fb-4d27-b2e1-9fa5aae74619)
 
 
 ## Timing diagram 
+![TIME SUB HAL](https://github.com/praveen2p/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151658061/4e96abc5-cc5b-4d48-8050-dc363bca6e2a)
+![TT SUB FULL](https://github.com/praveen2p/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151658061/695304bb-0a37-4f7e-8226-94a3600fda6b)
+
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
