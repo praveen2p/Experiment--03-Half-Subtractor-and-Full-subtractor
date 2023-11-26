@@ -40,11 +40,12 @@ RegisterNumber:
 */
 
 ## Output:
-![image](https://github.com/praveen2p/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151658061/74258e44-0406-4aa4-a3ce-c7e8d2a03d33)
+![hal sub pro - Copy](https://github.com/praveen2p/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151658061/523ceedb-b5d0-41a3-a247-9f4ae4a3dbaf)
 ![ful sub pro](https://github.com/praveen2p/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151658061/65c0f050-27c5-4f4f-aeb8-cd29a4688669)
 
 ## Truthtable
 ![TT SUB HAL](https://github.com/praveen2p/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151658061/6833c9c8-bb0b-4421-a758-7ba8f23c3995)
+
 ![TT SUB FULL](https://github.com/praveen2p/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151658061/e83f3eb8-0f70-4918-8d55-5212bf80f337)
 
 
@@ -56,6 +57,7 @@ RegisterNumber:
 
 ## Timing diagram 
 ![TIME SUB HAL](https://github.com/praveen2p/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151658061/4e96abc5-cc5b-4d48-8050-dc363bca6e2a)
+
 ![TT SUB FULL](https://github.com/praveen2p/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151658061/695304bb-0a37-4f7e-8226-94a3600fda6b)
 
 
